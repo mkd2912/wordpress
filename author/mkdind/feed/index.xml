@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mkdind &#8211; Blogging</title>
+	<atom:link href="http://mkd2912.github.io/wordpress/author/mkdind/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mkd2912.github.io/wordpress/</link>
+	<description>mkd</description>
+	<lastBuildDate>Thu, 05 Jan 2023 09:23:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>http://mkd2912.github.io/wordpress/wp-content/uploads/2023/01/cropped-cropped-WhatsApp-Image-2022-03-29-at-11.14.19-AM-32x32.jpeg</url>
+	<title>mkdind &#8211; Blogging</title>
+	<link>http://mkd2912.github.io/wordpress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Feugiat scelerisque varius morbi</title>
+		<link>http://mkd2912.github.io/wordpress/feugiat-scelerisque-varius-morbi/</link>
+					<comments>http://mkd2912.github.io/wordpress/feugiat-scelerisque-varius-morbi/#respond</comments>
+		
+		<dc:creator><![CDATA[mkdind]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 11:34:13 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://1-blog-site.local/?p=26</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fringilla urna porttitor rhoncus dolor purus non enim. Convallis aenean et tortor at risus viverra adipiscing at. Vel orci porta non pulvinar neque. Tristique senectus et netus et malesuada fames ac. Sit amet nisl purus in &#8230;<p class="read-more"> <a class="" href="http://mkd2912.github.io/wordpress/feugiat-scelerisque-varius-morbi/"> <span class="screen-reader-text">Feugiat scelerisque varius morbi</span> Read More &#187;</a></p>]]></description>
+		
+					<wfw:commentRss>http://mkd2912.github.io/wordpress/feugiat-scelerisque-varius-morbi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
